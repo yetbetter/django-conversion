@@ -1,0 +1,14 @@
+.container-extend {
+    min-height: calc(100vh - 80px);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.error-message {
+    color: red;
+}
+
+.message {
+    display: none;
+}
